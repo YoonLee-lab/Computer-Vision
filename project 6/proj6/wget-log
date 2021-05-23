@@ -1,0 +1,21 @@
+--2021-05-06 10:02:41--  https://github.com/johnwlambert/camvid-dataset-mirror/releases/download/v1.0.0/701_StillsRaw_full.zip
+Resolving github.com (github.com)... 140.82.121.3
+Connecting to github.com (github.com)|140.82.121.3|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://github-releases.githubusercontent.com/357443656/ad07c000-9c38-11eb-82c1-a49afedae2e1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210506%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210506T020245Z&X-Amz-Expires=300&X-Amz-Signature=df645a257f022d1872761ff48ed17c8daac8015809d58132e0c3124ff3790363&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=357443656&response-content-disposition=attachment%3B%20filename%3D701_StillsRaw_full.zip&response-content-type=application%2Foctet-stream [following]
+--2021-05-06 10:02:44--  https://github-releases.githubusercontent.com/357443656/ad07c000-9c38-11eb-82c1-a49afedae2e1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210506%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210506T020245Z&X-Amz-Expires=300&X-Amz-Signature=df645a257f022d1872761ff48ed17c8daac8015809d58132e0c3124ff3790363&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=357443656&response-content-disposition=attachment%3B%20filename%3D701_StillsRaw_full.zip&response-content-type=application%2Foctet-stream
+Resolving github-releases.githubusercontent.com (github-releases.githubusercontent.com)... 185.199.108.154, 185.199.109.154, 185.199.110.154, ...
+Connecting to github-releases.githubusercontent.com (github-releases.githubusercontent.com)|185.199.108.154|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 584553911 (557M) [application/octet-stream]
+Saving to: ‘Camvid/701_StillsRaw_full.zip’
+
+               Camv   0%[                    ]   2.67M  --.-KB/s    eta 31d 4h Camvid/701_StillsRa   0%[                    ]   2.67M  --.-KB/s    in 3h 36m  
+
+2021-05-06 13:38:47 (216 B/s) - Read error at byte 2798077/584553911 (Operation timed out). Retrying.
+
+--2021-05-06 13:38:48--  (try: 2)  https://github-releases.githubusercontent.com/357443656/ad07c000-9c38-11eb-82c1-a49afedae2e1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210506%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210506T020245Z&X-Amz-Expires=300&X-Amz-Signature=df645a257f022d1872761ff48ed17c8daac8015809d58132e0c3124ff3790363&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=357443656&response-content-disposition=attachment%3B%20filename%3D701_StillsRaw_full.zip&response-content-type=application%2Foctet-stream
+Connecting to github-releases.githubusercontent.com (github-releases.githubusercontent.com)|185.199.108.154|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2021-05-06 13:38:55 ERROR 403: Forbidden.
+
